@@ -29,10 +29,7 @@
   "authors": [
     "Jonas von Andrian"
   ],
-  "main": "source/js/jquery-sortable.js",
-  "moduleType": [
-    "globals"
-  ],
+  "main": "jquery-sortable.js",
   "private": true,
   "ignore": [
     "**/.*",
