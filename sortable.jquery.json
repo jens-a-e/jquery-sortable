@@ -1,5 +1,5 @@
 {
-  "name": "jquery-sortable",
+  "name": "sortable",
   "title": "jQuery Sortable",
   "description": "Enables items in a list (or table etc.) to be sorted horizontally and vertically using the mouse. Supports nested lists and pure drag/drop containers. Does not require jQuery UI.",
   "keywords": [
@@ -25,20 +25,5 @@
   "download": "http://johnny.github.com/jquery-sortable/",
   "dependencies": {
     "jquery": ">=1.7"
-  },
-  "authors": [
-    "Jonas von Andrian"
-  ],
-  "main": "source/js/jquery-sortable.js",
-  "moduleType": [
-    "globals"
-  ],
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  }
 }
